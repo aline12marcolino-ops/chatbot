@@ -1,0 +1,8 @@
+langchain
+langchain-core
+langchain-ollama
+langchain-classic
+pydantic>=2.0
+python-dotenv
+gradio
+tiktoken
