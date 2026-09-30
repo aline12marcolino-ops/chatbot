@@ -2,7 +2,12 @@ langchain
 langchain-core
 langchain-ollama
 langchain-classic
+langchain-community
+langchain-chroma
+langchain-text-splitters
+pypdf
 pydantic>=2.0
 python-dotenv
 gradio
 tiktoken
+ragas
